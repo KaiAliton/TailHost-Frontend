@@ -1,0 +1,28 @@
+.react-cookie-banner
+{
+    background: white;
+    border-radius: 10px;
+    z-index: 100;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.cookie-message
+{
+
+}
+.cookie-link
+{
+    color: rgb(249 115 22);
+}
+.button-close
+{
+    margin-top: 10px;
+    height: 40px;
+    color: white;
+    background: rgb(249 115 22);
+    border-radius: 5px;
+    width: 50%;
+}
