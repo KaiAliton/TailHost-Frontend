@@ -1,0 +1,1 @@
+export const BACKEND_URL = 'http://tailhost.ru:8000'

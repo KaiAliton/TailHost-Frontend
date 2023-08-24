@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.masonry-grid {
+    display: flex;
+    margin-left: -16px; /* Учтите любой отступ на странице */
+    width: auto;
+  }
+  
+  .masonry-grid-column {
+    padding-left: 5px; /* Учтите любой отступ на странице */
+    background-clip: padding-box;
+  }
+  
+  .masonry-grid-item {
+    margin-bottom: 5px; /* Расстояние между изображениями */
+  }
